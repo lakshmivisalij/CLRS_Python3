@@ -1,0 +1,22 @@
+Exercise - 1.1
+
+
+1.1-1. Sorting ex: Sorting files of resumes of people alphabetically. 
+       Convex Hull ex: To secure a wildlife sanctuary with fencing and contain a bunch of specific nesting locations in it.
+       
+1.1-2. Memory taken by the algorithm, no. of manhours.
+
+1.1-3. Arrays - Strengths - Continuous allocation of memory, easy to calculate the address of the index to retrieve that element at that index, i.e., faster access.
+                Limitations -  A lot of copying is required if we want to do insert/remove at any other indices other than end, we can write past the end of the array.
+                
+1.1-4. 
+
+1.1-5. Calculating trajectory for a missile launch needs the best solution
+       Finding the shortest route between two places. Cause a little extra drive is reasonably ok.
+       
+  
+Exercise - 1.2
+
+1.2-1. 
+       
+
